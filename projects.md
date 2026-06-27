@@ -17,3 +17,9 @@
 | E-Commerce Platform | Next.js + NestJS | Planned | Pending | Pending |
 | Project Management SaaS | React + Laravel | Planned | Pending | Pending |
 | AI Customer Support Dashboard | Next.js + FastAPI | Planned | Pending | Pending |
+| Project | Stack | Status | GitHub | Deployment |
+| Portfolio Website | Next.js + TypeScript | Planned | Pending | Pending |
+| University ASP.NET System | ASP.NET + SQL Server | Recovery Pending | Pending | Pending |
+| Authentication System | Laravel + React | Planned | Pending | Pending |
+| Employee Management System | Laravel + React | Planned | Pending | Pending |
+...
