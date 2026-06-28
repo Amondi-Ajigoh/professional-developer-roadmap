@@ -24,4 +24,7 @@
 | Social Media Platform | Next.js + Node.js | Social | Planned |
 | Video Streaming Platform | React + FastAPI | Media | Planned |
 | DevOps Monitoring Dashboard | React + Grafana APIs | DevOps | Planned |
+| Enterprise Banking Management System | ASP.NET Core + React |
+| Legacy Banking Desktop System        | Visual Basic + SQL   |
+
 
